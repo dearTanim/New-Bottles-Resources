@@ -1,0 +1,10 @@
+.bottle{
+    border: 2px solid greenyellow;
+    padding: 10px ;
+    border-radius: 10px;
+    text-align: center;
+}
+.bottle img{
+    width: 100%;
+    border-radius: 10px;
+}
